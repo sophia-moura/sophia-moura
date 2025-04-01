@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/sophia-moura">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophia-moura&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-moura&layout=moltack&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-moura&layout=compact&langs_count=6&theme=moltack"/>
 </div>
     
 <div style="display: inline_block"><br>

@@ -12,6 +12,19 @@ Sou graduanda de Ciência da Computação com foco em Análise de Dados, apaixon
   <img src="https://img.shields.io/badge/Gmail-4CB782?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+## Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/DAX-505050?style=for-the-badge&logoColor=white" alt="DAX"/>
+</p>
+
+## Contato
+
+📫 sopphiamguedes@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sophia-moura-b41308265/)
 ## Projetos
 
 **[Tradutor de Libras em tempo real](https://github.com/sophia-moura/)** · Visão computacional

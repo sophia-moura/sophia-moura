@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff3ebf&height=200&section=header&text=Sophia%20Moura&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Analista%20de%20Dados&descSize=18&descAlignY=58&animation=none" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8e6cf,100:1b7f4b&height=200&section=header&text=Sophia%20Moura&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Analista%20de%20Dados&descSize=18&descAlignY=58&animation=none" width="100%"/>
 
 Sou graduanda de Ciência da Computação com foco em Análise de Dados, apaixonada por transformar informação em decisão.
 
 <a href="https://www.linkedin.com/in/sophia-moura" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FF3EBF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-1B7F4B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF2A9E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-2E9E63?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:sopphiamguedes@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF5CB8?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-4CB782?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ## Projetos

@@ -2,7 +2,7 @@
 
 Sou graduanda de Ciência da Computação com foco em Análise de Dados, apaixonada por transformar informação em decisão.
 
-<a href="https://www.linkedin.com/in/sophia-moura" target="_blank">
+<a href="https://www.linkedin.com/in/sophia-moura-b41308265/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1B7F4B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="" target="_blank">
